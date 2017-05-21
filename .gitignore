@@ -1,0 +1,8 @@
+.idea/
+*.iml
+.vscode
+vendor
+test/hashids-state.json
+test/terraform.tfstate
+test/terraform.tfstate.backup
+test/terraform-provider-hashid

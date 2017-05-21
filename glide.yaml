@@ -1,0 +1,8 @@
+package: github.com/ferdinandhuebner/terraform-provider-hashid
+import:
+- package: github.com/hashicorp/terraform
+  version: v0.9.5
+  subpackages:
+  - plugin
+- package: github.com/speps/go-hashids
+  version: v1.0.0
